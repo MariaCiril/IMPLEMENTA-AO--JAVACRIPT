@@ -1,24 +1,22 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Bungee+Spice&display=swap');
-h1{
-    font-family: "Bungee Spice", sans-serif;
-    font-weight: 400;
-    font-style: normal;
-  }
-  @import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+
+body{
+  background-color: rgba(26, 25, 25, 0.893);
+  color: rgb(113, 17, 191);
+  text-align: center;
+  font-size: 50px;
+} 
+
 p{
     font-family: "Permanent Marker", cursive;
     font-weight: 300;
     font-style: normal;
   }
-  body{
-    background-color: rgba(26, 25, 25, 0.893);
-    color: rgb(113, 17, 191);
-    text-align: center;
-    font-size: 50px;
-  }
-span{
-    background-color: rgb(60, 137, 238);
+  
+h1 span{
+    color: rgb(60, 137, 238);
 }
 
 #dias_restantes{
